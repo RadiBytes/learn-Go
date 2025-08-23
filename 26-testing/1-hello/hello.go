@@ -1,8 +1,8 @@
-package hello
+package main
 
 import (
 	"fmt"
-	"testing_test/intego"
+	intego "testing_test/2-intego"
 )
 
 func Hello() string {
